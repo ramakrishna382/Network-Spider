@@ -290,4 +290,3 @@ text.configure(yscrollcommand=vsb.set)
 vsb.pack(side="right", fill="y")
 text.pack(side="left", fill="x", expand=True)
 network.mainloop()
-
